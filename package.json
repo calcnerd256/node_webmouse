@@ -1,5 +1,9 @@
 {
 	"name": "webmouse",
 	"version": "0.0.0",
-	"main": "./server.js"
+	"main": "./server.js",
+	"dependencies": {
+		"node_form_stream": "https://github.com/calcnerd256/node_form_stream/tarball/master",
+		"webserver_functors": "https://github.com/calcnerd256/node_webserver_functors/tarball/master"
+	}
 }
