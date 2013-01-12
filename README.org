@@ -1,0 +1,3 @@
+* Node Webmouse
+First things first: this package has undeclared dependencies.
+Make sure you have xdotool installed and in your PATH.
